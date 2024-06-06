@@ -1,6 +1,6 @@
 ﻿using MySql.Data.MySqlClient;
 
-namespace Mediatek86
+namespace Mediatek86.cned
 {
     /// <summary>
     /// Classe non couverte par la licence MIT elle est la propriété de son auteur initial
